@@ -1,0 +1,61 @@
+2 9 32  Coreference Resolution
+2 33 35 by
+2 53 87  Level Distributed Representations
+26 104 124  - level information
+27 74 76 of
+28 43 45 of
+28 52 55 for
+28 56 73 English and 63.66
+28 52 55 for
+28 43 45 of
+29 41 47 during
+29 83 86 for
+79 30 32 to
+79 56 73 500 and minimized
+79 77 96  training objective
+80 38 56  L2 regularization
+80 57 59 to
+80 63 77  model weights
+80 70 89 weights and dropout
+80 90 94 with
+80 102 104 of
+80 54 56 on
+80 115 131  word embeddings
+80 102 104 of
+82 45 48 for
+176 6 23 RMSProp and apply
+176 32 36 with
+176 44 46 of
+176 51 53 to
+176 57 69  input layer
+177 0 3 For
+177 50 73  pair encoder component
+177 74 76 of
+177 80 101  clusterranking model
+177 102 106 with
+177 127 131 from
+178 24 26 of
+178 31 53 two - step pretraining
+178 54 57 for
+178 24 26 of
+178 126 128 on
+178 132 141  dev sets
+178 142 146 with
+195 11 15 with
+205 29 33 over
+205 60 64 from
+205 65 67 to
+205 120 136  word embeddings
+229 53 59 across
+229 130 132 of
+229 153 173  - level information
+230 27 29 in
+232 66 70 from
+232 128 135 through
+232 16 18 in
+232 63 65 of
+232 179 188 according
+232 189 191 to
+232 198 240 highest scoring candidate coreference link
+232 80 82 on
+232 63 65 of
